@@ -21,17 +21,17 @@
 <h2>High-Level Steps</h2>
 
 - Step 1
-- Create a Resource Group where the Virtual Machine will be installed.
+  - Create a Resource Group where the Virtual Machine will be installed.
 - Step 2
-- Create a Virtual Machine within the Resource group making sure the region, size of machine and the networking validates.
+  - Create a Virtual Machine within the Resource group making sure the region, size of machine and the networking validates.
 - Step 3
-- Use Remote Desktop to remotely login to your Virtual Machine using the Public IP Address.
+  - Use Remote Desktop to remotely login to your Virtual Machine using the Public IP Address.
 - Step 4
-- Browse whatismyipaddress to find your location which is USWest (where my VM was created) on Arizona, USA.
+  - Browse whatismyipaddress to find your location which is USWest (where my VM was created) on Arizona, USA.
 - Step 5
-- Download Proton VPN on your VM to find a secure VPN Server in another location.
+  - Download Proton VPN on your VM to find a secure VPN Server in another location.
 - Step 6
-- Browse whatismyipaddress from your VM with the VPN running and see the location change. (shows my VM being in Netherlands)
+  - Browse whatismyipaddress from your VM with the VPN running and see the location change. (shows my VM being in Netherlands)
 
 <h2>Actions and Observations</h2>
 
