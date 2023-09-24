@@ -3,7 +3,7 @@
 #
 # Set up Microsoft Azure Resource Group
 # Create Windows 10 Virtual Machine inside our Resource Group
-# Remote Desktop our Virtual Machine 
+# Remote Desktop Virtual Machine 
 # Utilize a VPN with our VM Remotely using Proton VPN
 # See the changes of location from NO VPN to using Proton VPN
 
